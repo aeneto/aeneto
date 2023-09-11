@@ -15,17 +15,6 @@ Você pode me procurar para discutir:
 - 📊 Power BI
 - 🔒 Administração de Bancos de Dados Postgres
 
-Além disso, tenho um profundo interesse em:
-
-- 🎸 Música
-- ⚽️ Futebol
-- 🎾 Tênis
-- 🗻 Montanhas
-- ⛺️ Aventuras ao ar livre
-- 🌱 Aprendizado contínuo
-
-
-
 ## Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/aeneto/)
