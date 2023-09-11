@@ -13,6 +13,7 @@ Você pode me procurar para discutir:
 - 📈 Visualização de Dados
 - 🔍 Identificação de Padrões e Tendências
 - 📊 Power BI
+- 📜 Excel
 - 🔒 Administração de Bancos de Dados Postgres
 
 ## Conecte-se Comigo
