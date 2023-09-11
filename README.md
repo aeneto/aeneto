@@ -3,8 +3,8 @@
 Sou um Especialista em Análise de Dados com uma paixão por transformar dados em insights valiosos. Atualmente, trabalho como Analista de Dados na Unimed Lavras, e estou sempre em busca de desafios empolgantes relacionados à análise de dados e tomada de decisões estratégicas.
 
 
-📚 Pós-Graduação em Ciência de Dados e Big Data pela PUC Minas 
-🎓 Graduação em Análise e Desenvolvimento de Sistemas pelo IF Sudeste de MG
+- 📚 Pós-Graduação em Ciência de Dados e Big Data pela PUC Minas 
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas pelo IF Sudeste de MG
 
 
 ## Habilidades e Interesses
