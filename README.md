@@ -18,8 +18,8 @@ Você pode me procurar para discutir:
 
 ## Conecte-se Comigo
 
-- [LinkedIn](https://www.linkedin.com/in/aeneto/)
-- [Email](aeneto14@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aeneto/)
+- [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aeneto14@gmail.com)
 
 
 
